@@ -14,7 +14,7 @@ TagManager:
   - Walls
   - Barrel
   - Enemy
-  - 
+  - Bomb
   - 
   - 
   - 
@@ -55,4 +55,10 @@ TagManager:
     locked: 0
   - name: Enemys
     uniqueID: 1312081381
+    locked: 0
+  - name: Bombs
+    uniqueID: 1473712503
+    locked: 0
+  - name: PowerUp
+    uniqueID: 4177201829
     locked: 0
